@@ -1,0 +1,22 @@
+{
+  "name": "tiddlying",
+  "version": "1.0.0",
+  "description": "Messing with the tiddlywiki github saver echo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejheil/tiddlying.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejheil/tiddlying/issues"
+  },
+  "homepage": "https://github.com/ejheil/tiddlying#readme",
+  "dependencies": {
+    "tiddlywiki": "^5.2.5"
+  }
+}
